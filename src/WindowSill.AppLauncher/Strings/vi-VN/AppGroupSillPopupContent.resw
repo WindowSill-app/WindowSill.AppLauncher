@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Edit.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Edit</value>
+    <value>Chỉnh sửa</value>
   </data>
   <data name="LaunchAll.TextProperty" xml:space="preserve">
-    <value>Launch all</value>
+    <value>Khởi động tất cả</value>
   </data>
   <data name="Open.TextProperty" xml:space="preserve">
-    <value>Open</value>
+    <value>Mở</value>
   </data>
   <data name="OpenFileLocation.TextProperty" xml:space="preserve">
-    <value>Open file location</value>
+    <value>Vị trí tập tin mở</value>
   </data>
   <data name="RunAsAdmin.TextProperty" xml:space="preserve">
-    <value>Run as administrator</value>
+    <value>Chạy dưới quyền quản trị viên</value>
   </data>
 </root>
