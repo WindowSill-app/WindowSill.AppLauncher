@@ -118,39 +118,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AppApps.TextProperty" xml:space="preserve">
-    <value>Add app(s)</value>
+    <value>添加应用程序</value>
   </data>
   <data name="AppFiles.TextProperty" xml:space="preserve">
-    <value>Add file(s)</value>
+    <value>添加文件</value>
   </data>
   <data name="AppFolders.TextProperty" xml:space="preserve">
-    <value>Add folder(s)</value>
+    <value>添加文件夹</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>取消</value>
   </data>
   <data name="ChangeIcon.TextProperty" xml:space="preserve">
-    <value>Change icon</value>
+    <value>更改图标</value>
   </data>
   <data name="Delete.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Delete</value>
+    <value>删除</value>
   </data>
   <data name="Edit.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Edit</value>
+    <value>编辑</value>
   </data>
   <data name="EditGroup" xml:space="preserve">
-    <value>Edit group</value>
+    <value>编辑组</value>
   </data>
   <data name="GroupName.HeaderProperty" xml:space="preserve">
-    <value>Group name</value>
+    <value>组名</value>
   </data>
   <data name="NewGroup" xml:space="preserve">
-    <value>New group</value>
+    <value>新建组</value>
   </data>
   <data name="Reset.TextProperty" xml:space="preserve">
-    <value>Reset</value>
+    <value>重置</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>保存</value>
   </data>
 </root>
