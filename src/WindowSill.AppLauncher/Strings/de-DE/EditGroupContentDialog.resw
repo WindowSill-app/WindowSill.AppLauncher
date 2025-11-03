@@ -118,39 +118,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AppApps.TextProperty" xml:space="preserve">
-    <value>Add app(s)</value>
+    <value>App(s) hinzufügen</value>
   </data>
   <data name="AppFiles.TextProperty" xml:space="preserve">
-    <value>Add file(s)</value>
+    <value>Datei(en) hinzufügen</value>
   </data>
   <data name="AppFolders.TextProperty" xml:space="preserve">
-    <value>Add folder(s)</value>
+    <value>Ordner(e) hinzufügen</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Abbrechen</value>
   </data>
   <data name="ChangeIcon.TextProperty" xml:space="preserve">
-    <value>Change icon</value>
+    <value>Symbol ändern</value>
   </data>
   <data name="Delete.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Delete</value>
+    <value>Löschen</value>
   </data>
   <data name="Edit.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Edit</value>
+    <value>Bearbeiten</value>
   </data>
   <data name="EditGroup" xml:space="preserve">
-    <value>Edit group</value>
+    <value>Gruppe bearbeiten</value>
   </data>
   <data name="GroupName.HeaderProperty" xml:space="preserve">
-    <value>Group name</value>
+    <value>Gruppennamen</value>
   </data>
   <data name="NewGroup" xml:space="preserve">
-    <value>New group</value>
+    <value>Neue Gruppe</value>
   </data>
   <data name="Reset.TextProperty" xml:space="preserve">
-    <value>Reset</value>
+    <value>Zurücksetzen</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Speichern</value>
   </data>
 </root>
