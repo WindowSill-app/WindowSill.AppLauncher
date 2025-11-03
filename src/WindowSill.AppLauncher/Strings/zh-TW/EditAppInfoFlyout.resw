@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AlwaysRunAsAdmin.ContentProperty" xml:space="preserve">
-    <value>Always run as administrator</value>
+    <value>始終以管理員身份運行</value>
   </data>
   <data name="Arguments.HeaderProperty" xml:space="preserve">
-    <value>Arguments</value>
+    <value>參數</value>
   </data>
   <data name="Name.HeaderProperty" xml:space="preserve">
-    <value>Name</value>
+    <value>名稱</value>
   </data>
   <data name="Reset.ContentProperty" xml:space="preserve">
-    <value>Reset</value>
+    <value>重設</value>
   </data>
 </root>
