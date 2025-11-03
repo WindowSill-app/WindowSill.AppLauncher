@@ -118,18 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Edit.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Edit</value>
+    <value>編輯</value>
   </data>
   <data name="LaunchAll.TextProperty" xml:space="preserve">
-    <value>Launch all</value>
+    <value>全部啟動</value>
   </data>
   <data name="Open.TextProperty" xml:space="preserve">
-    <value>Open</value>
+    <value>開啟</value>
   </data>
   <data name="OpenFileLocation.TextProperty" xml:space="preserve">
-    <value>Open file location</value>
+    <value>檔案位置</value>
   </data>
   <data name="RunAsAdmin.TextProperty" xml:space="preserve">
-    <value>Run as administrator</value>
+    <value>以管理員身份執行</value>
   </data>
 </root>
