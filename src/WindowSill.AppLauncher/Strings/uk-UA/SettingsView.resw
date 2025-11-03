@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Delete.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Delete</value>
+    <value>Видалити</value>
   </data>
   <data name="Edit.ToolTipService.ToolTipProperty" xml:space="preserve">
-    <value>Edit</value>
+    <value>Редагувати</value>
   </data>
   <data name="EmptyIntro.TextProperty" xml:space="preserve">
-    <value>Group your favorite apps, files and folders and launch them from WindowSill, individually or all at once. Customize their name, icon and order.</value>
+    <value>Згрупуйте свої улюблені додатки, файли та папки та запускати їх із WindowSill, окремо або всі разом. Налаштуйте їхню назву, іконку та порядок.</value>
   </data>
   <data name="NewGroup.LabelProperty" xml:space="preserve">
-    <value>New group</value>
+    <value>Нова група</value>
   </data>
 </root>
