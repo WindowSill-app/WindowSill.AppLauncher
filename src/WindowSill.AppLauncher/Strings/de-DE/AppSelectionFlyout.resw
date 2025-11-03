@@ -118,15 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="SelectApp.TextProperty" xml:space="preserve">
-    <value>Select an app</value>
+    <value>Wählen Sie eine App</value>
   </data>
   <data name="Loading.TextProperty" xml:space="preserve">
-    <value>Loading apps...</value>
+    <value>Apps werden geladen
+0...</value>
   </data>
   <data name="Search.PlaceholderTextProperty" xml:space="preserve">
-    <value>Search</value>
+    <value>Suche</value>
   </data>
   <data name="BrowseMore.ContentProperty" xml:space="preserve">
-    <value>Browse more apps</value>
+    <value>Weitere Apps durchsuchen</value>
   </data>
 </root>
