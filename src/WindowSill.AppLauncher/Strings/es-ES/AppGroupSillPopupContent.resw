@@ -121,15 +121,15 @@
     <value>Edit</value>
   </data>
   <data name="LaunchAll.TextProperty" xml:space="preserve">
-    <value>Launch all</value>
+    <value>Iniciar todo</value>
   </data>
   <data name="Open.TextProperty" xml:space="preserve">
-    <value>Open</value>
+    <value>Abrir</value>
   </data>
   <data name="OpenFileLocation.TextProperty" xml:space="preserve">
-    <value>Open file location</value>
+    <value>Ubicación del archivo</value>
   </data>
   <data name="RunAsAdmin.TextProperty" xml:space="preserve">
-    <value>Run as administrator</value>
+    <value>Ejecutar como administrador</value>
   </data>
 </root>
