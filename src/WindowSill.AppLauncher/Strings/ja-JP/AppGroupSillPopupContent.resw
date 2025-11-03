@@ -121,15 +121,15 @@
     <value>Edit</value>
   </data>
   <data name="LaunchAll.TextProperty" xml:space="preserve">
-    <value>Launch all</value>
+    <value>すべて起動</value>
   </data>
   <data name="Open.TextProperty" xml:space="preserve">
-    <value>Open</value>
+    <value>開く</value>
   </data>
   <data name="OpenFileLocation.TextProperty" xml:space="preserve">
-    <value>Open file location</value>
+    <value>ファイルの場所を開く</value>
   </data>
   <data name="RunAsAdmin.TextProperty" xml:space="preserve">
-    <value>Run as administrator</value>
+    <value>管理者として実行</value>
   </data>
 </root>
