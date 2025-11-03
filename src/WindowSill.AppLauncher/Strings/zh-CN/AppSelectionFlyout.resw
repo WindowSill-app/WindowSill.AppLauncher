@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="SelectApp.TextProperty" xml:space="preserve">
-    <value>Select an app</value>
+    <value>选择一个应用程序</value>
   </data>
   <data name="Loading.TextProperty" xml:space="preserve">
-    <value>Loading apps...</value>
+    <value>加载应用程序中……</value>
   </data>
   <data name="Search.PlaceholderTextProperty" xml:space="preserve">
-    <value>Search</value>
+    <value>搜索</value>
   </data>
   <data name="BrowseMore.ContentProperty" xml:space="preserve">
-    <value>Browse more apps</value>
+    <value>浏览更多应用程序</value>
   </data>
 </root>
