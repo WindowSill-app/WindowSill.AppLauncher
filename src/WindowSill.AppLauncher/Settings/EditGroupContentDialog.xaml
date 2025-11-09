@@ -163,7 +163,7 @@
                                     api:Uids.Uid="/WindowSill.AppLauncher/EditGroupContentDialog/Edit"
                                     Background="Transparent"
                                     BorderBrush="Transparent"
-                                    Loaded="EditAppInfoButton_Loaded">
+                                    DataContextChanged="EditAppInfoButton_DataContextChanged">
                                     <FontIcon
                                         VerticalAlignment="Center"
                                         FontFamily="{StaticResource SegoeFluentIcons}"

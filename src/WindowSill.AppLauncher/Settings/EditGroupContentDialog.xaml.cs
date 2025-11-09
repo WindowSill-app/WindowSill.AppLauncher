@@ -143,14 +143,16 @@ public sealed partial class EditGroupContentDialog : UserControl
         ViewModel.Items.Remove(appInfo);
     }
 
-    private void EditAppInfoButton_Loaded(object sender, RoutedEventArgs e)
+    private void EditAppInfoButton_DataContextChanged(FrameworkElement sender, DataContextChangedEventArgs args)
     {
         var button = (Button)sender;
-        var appInfo = (AppInfo)button.DataContext;
-        button.Flyout = new Flyout
+        if (args.NewValue is AppInfo appInfo)
         {
-            Content = new EditAppInfoFlyout(_parentWindow, appInfo),
-        };
+            button.Flyout = new Flyout
+            {
+                Content = new EditAppInfoFlyout(_parentWindow, appInfo),
+            };
+        }
     }
 
     private void ChangeGroupIconMenuFlyoutItem_Click(object sender, RoutedEventArgs e)
