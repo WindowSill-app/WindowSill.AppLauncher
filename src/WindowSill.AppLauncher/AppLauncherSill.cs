@@ -11,6 +11,7 @@ namespace WindowSill.AppLauncher;
 [Export(typeof(ISill))]
 [Name(SillInternalName)]
 [Priority(Priority.Highest)]
+[HideIconInSillListView]
 public sealed class AppLauncherSill : ISillActivatedByDefault, ISillListView
 {
     internal const string SillInternalName = "WindowSill.AppLauncherSill";

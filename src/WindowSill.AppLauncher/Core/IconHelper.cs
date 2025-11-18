@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System.Runtime.InteropServices;
 using System.Runtime.InteropServices.WindowsRuntime;
 using CommunityToolkit.Diagnostics;
 using Microsoft.Extensions.Logging;
@@ -63,6 +64,10 @@ internal static class IconHelper
 
                         return writeableBitmap;
                     }
+                }
+                catch (Exception ex) when (ex is UnauthorizedAccessException || ex is COMException)
+                {
+                    return null;
                 }
                 catch (Exception ex)
                 {
