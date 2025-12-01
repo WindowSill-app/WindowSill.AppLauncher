@@ -124,7 +124,7 @@
     <value>Chỉnh sửa</value>
   </data>
   <data name="EmptyIntro.TextProperty" xml:space="preserve">
-    <value>Nhóm các ứng dụng yêu thích, tập tin và thư mục của bạn và khởi chạy chúng từ WindowSill, riêng lẻ hoặc tất cả cùng một lúc. Tùy chỉnh tên, biểu tượng và thứ tự của chúng.</value>
+    <value>Nhóm các ứng dụng yêu thích, tập tin, thư mục của bạn và khởi chạy chúng từ WindowSill, riêng lẻ hoặc tất cả cùng một lúc. Tùy chỉnh tên, biểu tượng và thứ tự của chúng.</value>
   </data>
   <data name="NewGroup.LabelProperty" xml:space="preserve">
     <value>Nhóm mới</value>
