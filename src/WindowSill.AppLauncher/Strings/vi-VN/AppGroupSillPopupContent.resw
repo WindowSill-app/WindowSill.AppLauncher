@@ -127,9 +127,9 @@
     <value>Mở</value>
   </data>
   <data name="OpenFileLocation.TextProperty" xml:space="preserve">
-    <value>Vị trí tập tin mở</value>
+    <value>Mở vị trí tập tin</value>
   </data>
   <data name="RunAsAdmin.TextProperty" xml:space="preserve">
-    <value>Chạy dưới quyền quản trị viên</value>
+    <value>Chạy với quyền quản trị viên</value>
   </data>
 </root>
