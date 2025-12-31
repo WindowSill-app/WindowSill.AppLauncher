@@ -117,7 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DisplayName" xml:space="preserve">
-    <value>Trình khởi chạy Ứng dụng</value>
+  <data name="AlwaysRunAsAdmin.ContentProperty" xml:space="preserve">
+    <value>Sempre execute como administrador</value>
+  </data>
+  <data name="Arguments.HeaderProperty" xml:space="preserve">
+    <value>Argumentos</value>
+  </data>
+  <data name="Name.HeaderProperty" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="Reset.ContentProperty" xml:space="preserve">
+    <value>Redefinir</value>
   </data>
 </root>

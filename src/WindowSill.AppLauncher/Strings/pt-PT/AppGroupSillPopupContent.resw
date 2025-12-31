@@ -117,7 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DisplayName" xml:space="preserve">
-    <value>Trình khởi chạy Ứng dụng</value>
+  <data name="Edit.ToolTipService.ToolTipProperty" xml:space="preserve">
+    <value/>
+  </data>
+  <data name="LaunchAll.TextProperty" xml:space="preserve">
+    <value>Iniciar todos</value>
+  </data>
+  <data name="Open.TextProperty" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="OpenFileLocation.TextProperty" xml:space="preserve">
+    <value>Abrir local do arquivo</value>
+  </data>
+  <data name="RunAsAdmin.TextProperty" xml:space="preserve">
+    <value>Executar como administrador</value>
   </data>
 </root>

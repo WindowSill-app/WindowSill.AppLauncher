@@ -117,7 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DisplayName" xml:space="preserve">
-    <value>Trình khởi chạy Ứng dụng</value>
+  <data name="AppApps.TextProperty" xml:space="preserve">
+    <value>Adicionar aplicativo(s)</value>
+  </data>
+  <data name="AppFiles.TextProperty" xml:space="preserve">
+    <value>Adicionar arquivo(s)</value>
+  </data>
+  <data name="AppFolders.TextProperty" xml:space="preserve">
+    <value>Adicionar pasta(s)</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="ChangeIcon.TextProperty" xml:space="preserve">
+    <value>Alterar ícone</value>
+  </data>
+  <data name="Delete.ToolTipService.ToolTipProperty" xml:space="preserve">
+    <value>Excluir</value>
+  </data>
+  <data name="Edit.ToolTipService.ToolTipProperty" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="EditGroup" xml:space="preserve">
+    <value>Editar grupo</value>
+  </data>
+  <data name="GroupName.HeaderProperty" xml:space="preserve">
+    <value>Nome do grupo</value>
+  </data>
+  <data name="NewGroup" xml:space="preserve">
+    <value>Novo grupo</value>
+  </data>
+  <data name="Reset.TextProperty" xml:space="preserve">
+    <value>Redefinir</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Salvar</value>
   </data>
 </root>

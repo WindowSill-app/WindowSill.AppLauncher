@@ -117,7 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DisplayName" xml:space="preserve">
-    <value>Trình khởi chạy Ứng dụng</value>
+  <data name="SelectApp.TextProperty" xml:space="preserve">
+    <value>Selecionar um aplicativo</value>
+  </data>
+  <data name="Loading.TextProperty" xml:space="preserve">
+    <value>Carregando aplicativos...</value>
+  </data>
+  <data name="Search.PlaceholderTextProperty" xml:space="preserve">
+    <value>Procurar</value>
+  </data>
+  <data name="BrowseMore.ContentProperty" xml:space="preserve">
+    <value>Pesquisar mais aplicativos</value>
   </data>
 </root>
