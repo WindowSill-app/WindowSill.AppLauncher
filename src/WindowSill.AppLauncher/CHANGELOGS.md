@@ -1,3 +1,6 @@
+# 0.1.4
+- Improved Portuguese translation.
+
 # 0.1.3
 - Added translation for Portuguese.
 - Improved other translations.
